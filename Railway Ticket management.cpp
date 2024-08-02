@@ -496,7 +496,3 @@ void aread()
 	fread(&k,sizeof(k),1,train_report);
 	fclose(train_report);
 }
-
-
-
-
